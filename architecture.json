@@ -1,0 +1,160 @@
+{
+  "book_id": "digital_native_surrealist_love_mortality",
+  "title": "The Catalogue of Unfinished Journeys",
+  "tagline": "A digital ghost and a surrealist archivist document love, loss, and the glitches in reality before the final buffer empties.",
+  "target_words": 70000,
+  "actual_words": 73538,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Archivists of Mortality",
+    "Love as a Glitch in the System",
+    "Digital Ghosts vs. Analog Souls",
+    "Curating the Interrupted Narrative"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Dead Pigeon on Crosby Street",
+      "words": 3064
+    },
+    {
+      "ch": 2,
+      "title": "Re-entry and Burning Toast",
+      "words": 3064
+    },
+    {
+      "ch": 3,
+      "title": "The Violence of the Stream",
+      "words": 3064
+    },
+    {
+      "ch": 4,
+      "title": "The First Artifact",
+      "words": 3064
+    },
+    {
+      "ch": 5,
+      "title": "Deliverables and Heartbeats",
+      "words": 3064
+    },
+    {
+      "ch": 6,
+      "title": "The Ghost's Metadata",
+      "words": 3064
+    },
+    {
+      "ch": 7,
+      "title": "A Field Trip for the Dying",
+      "words": 3064
+    },
+    {
+      "ch": 8,
+      "title": "Solder and Sentiment",
+      "words": 3064
+    },
+    {
+      "ch": 9,
+      "title": "The Buffer Begins to Empty",
+      "words": 3064
+    },
+    {
+      "ch": 10,
+      "title": "White Box, Grey Box",
+      "words": 3064
+    },
+    {
+      "ch": 11,
+      "title": "Incidental Violence",
+      "words": 3064
+    },
+    {
+      "ch": 12,
+      "title": "The Singapore Pulse",
+      "words": 3064
+    },
+    {
+      "ch": 13,
+      "title": "A Co-conspirator Departs",
+      "words": 3064
+    },
+    {
+      "ch": 14,
+      "title": "Archiving the Living",
+      "words": 3064
+    },
+    {
+      "ch": 15,
+      "title": "The Deflated Whale",
+      "words": 3064
+    },
+    {
+      "ch": 16,
+      "title": "Protocol for an Ending",
+      "words": 3064
+    },
+    {
+      "ch": 17,
+      "title": "Neon Mushroom Vigil",
+      "words": 3064
+    },
+    {
+      "ch": 18,
+      "title": "Ghost Class, Final Transmission",
+      "words": 3064
+    },
+    {
+      "ch": 19,
+      "title": "The Last Biscuit, Crushed",
+      "words": 3064
+    },
+    {
+      "ch": 20,
+      "title": "Analog Magic, Digital Echo",
+      "words": 3064
+    },
+    {
+      "ch": 21,
+      "title": "Curating the Aftermath",
+      "words": 3064
+    },
+    {
+      "ch": 22,
+      "title": "The Simulation Stutters",
+      "words": 3064
+    },
+    {
+      "ch": 23,
+      "title": "A Very Final Angle",
+      "words": 3064
+    },
+    {
+      "ch": 24,
+      "title": "The Archive Opens",
+      "words": 3064
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character documents a seemingly mundane 'interrupted journey' (e.g., a melted ice sculpture, a book left on a bus) and discovers its profound connection to a stranger's life.",
+      "Create a monologue from a 'digital ghost'—someone who feels they exist only as data and notifications—encountering a raw, physical emotion for the first time.",
+      "Imagine a 'memory palace' not for memories, but for futures that never happened. Describe one wing of this palace and its curator.",
+      "Write the dialogue for a final conversation between two lovers where one is trying to 'optimize' their goodbye, and the other is trying to 'glitch' it into something unforgettable."
+    ],
+    "technical": [
+      "Build a simple web-based 'Catalogue of Unfinished Journeys' where users can submit a photo and short text about an interrupted moment. Use a minimalist, archival aesthetic.",
+      "Create a generative art piece that visualizes 'data ghosts' or 'residual data glow' described in the novel, using p5.js or similar to represent digital traces in an analog space."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Haruki Murakami",
+      "Ursula K. Le Guin",
+      "William Gibson",
+      "Joan Didion"
+    ]
+  },
+  "cover_prompt": "A spectral, translucent figure composed of cascading digital data and fragmented memories reaches towards a solid, human hand, their fingertips almost touching across a shimmering barrier of static, within the vast and surreal archive of the Unfinished; towering shelves stretch into infinity, holding not books but glowing cubes containing frozen moments, flickering film reels of last goodbyes, and antique radios whispering lost conversations, all under a ceiling that glitches between a starry night sky and a cracked plaster dome. In the atmospheric style of a digital-native surrealist blending the intricate detail of James Jean with the melancholic glitch aesthetics of Petra Cortright and the architectural solemnity of Giorgio de Chirico, presented as a book cover with a centered, monumental composition viewed from a low, dramatic angle that emphasizes the towering shelves and the vast emotional distance between the two figures. Cinematic volumetric lighting pierces the dusty air, casting long shadows and highlighting the contrast between the warm, analog glow of brass and walnut and the cold, electric blues and data-green pulses of the digital ghost, all washed in a palette of archival sepia, cathode-ray tube blue, and fleeting rose-gold. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
