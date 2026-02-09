@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The first time I saw her, she was weeping over a dead pigeon. Not elegantly, not with a single silver tear tracking down a marble cheek. This was a catastrophic, snotty, shoulder-shaking event. She was crouched on the wet pavement of Crosby Street, cradling the iridescent grey body in her bare hands, her phone discarded beside her, screen cracked from the drop. A delivery guy on a throttle-shrieking e-bike swerved around her, yelling something lost to the wind. She didn’t flinch.
@@ -114,6 +116,8 @@ And just like that, I was no longer a ghost in the stream. I was a collaborator.
 
 ---
 
+# Chapter 2
+
 ## CHAPTER 2
 
 I woke to the sound of rain against glass and the smell of burning toast. My neck was a knot of protest, my spine a series of unhappy opinions. I was on the deflated whale, which was less comfortable than it looked. Grey morning light filtered through the hanging glass boxes, casting moving, liquid shapes across the brick.
@@ -229,6 +233,8 @@ I took it. It was warm from her body. “Wren… last night. Today. Thank you.�
 Then she was gone, swallowed by the dark stairwell. I stood on the street, the stone in one hand, my glowing, frantic phone in the other. I was a ghost again. But now I knew I was a ghost. And I had, tucked away in a surrealist’s archive, a fragment that proved, once, I had been real.
 
 ---
+
+# Chapter 3
 
 ## CHAPTER 3
 
