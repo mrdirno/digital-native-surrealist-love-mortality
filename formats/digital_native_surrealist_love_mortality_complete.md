@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The first time I saw her, she was weeping over a dead pigeon. Not elegantly, not with a single silver tear tracking down a marble cheek. This was a catastrophic, snotty, shoulder-shaking event. She was crouched on the wet pavement of Crosby Street, cradling the iridescent grey body in her bare hands, her phone discarded beside her, screen cracked from the drop. A delivery guy on a throttle-shrieking e-bike swerved around her, yelling something lost to the wind. She didn’t flinch.
+Maya’s heart stopped for the third time that Tuesday, but the app just buffered. A loading wheel spun over his still chest, a pale sun against the rumpled sheets. She tapped the screen again. *Connection unstable. Try re-linking?* Outside, dawn rendered the city in low-poly grey, all sharp edges and no soft light. She waited for the update to love a ghost.
+
 
 I was a ghost in the stream, paused. My own phone was a live thing in my palm, vibrating with three separate conversations, a fourth notification pulsing at the corner of my eye through my glasses. I was late. I was always late. But the raw, unmediated grief of it—for a *bird*, in the middle of a Tuesday—froze my scroll.
 
